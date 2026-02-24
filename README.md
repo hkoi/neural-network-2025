@@ -2,7 +2,7 @@
 
 Hands-on workshop for neural network lecture. This is to demonstrate utilizing a pretrained model backbone to learn a specific task, with a limited amount of data.
 
-Lecture Slides: TBD
+Lecture Slides: [here](https://assets.hkoi.org/training2025/nn.pdf)
 
 ## Notes
 
